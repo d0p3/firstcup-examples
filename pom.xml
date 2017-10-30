@@ -16,7 +16,7 @@
         <developerConnection>scm:git:git@github.com:javaee/firstcup-examples.git</developerConnection>
         <url>https://github.com/javaee/firstcup-examples</url>
       <tag>HEAD</tag>
-  </scm>
+    </scm>
     <issueManagement>
         <system>IssueTracker</system>
         <url>https://github.com/javaee/firstcup-examples/issues</url>

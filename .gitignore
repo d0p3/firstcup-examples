@@ -1,0 +1,14 @@
+.DS_Store
+*.iml
+.idea
+/.idea
+/.idea/
+.classpath
+.project
+.settings/
+target/
+test-output/
+inputdir/
+errordir/
+logs/
+version.info
